@@ -18,8 +18,8 @@
 
 ### ✨ Who Am I?
 
-- 🎓 Aivancity Paris | Data Science & AI
-- 📍 Living in Paris (from Surat 🇮🇳)
+- 🎓 Studying at Aivancity Paris | Data Science & AI
+- 📍 Living in Paris, France
 - 🧠 Obsessed with clean code, smart models, and meaningful insights
 - 🧪 Building in Python, TensorFlow, Pandas, SQL
 - 🎯 Exploring Deep Learning, NLP, Statistical Modeling
