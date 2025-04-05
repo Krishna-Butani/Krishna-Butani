@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Krishna Butani 👋
 
-<!--
-**Krishna-Butani/Krishna-Butani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Aivanciy**, passionate about data science, machine learning, and artificial intelligence. Currently living in **Paris, France**, I originally hail from **Surat, Gujarat**. I’m excited to dive deeper into the world of data and technology, and I love tackling challenges with code and creativity.
 
-Here are some ideas to get you started:
+- 🎓 Studying at Aivanciy  
+- 🌍 Based in Paris, France (from Surat, Gujarat)  
+- 🌱 Currently exploring advanced data science and AI techniques  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills  
+- **Languages**: Python, SQL  
+- **Data Science & ML**: Data Analysis, Machine Learning, Deep Learning, Artificial Intelligence (AI), Statistics, Mathematics for Data Science, Data Wrangling, Natural Language Processing (NLP)  
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+- **Tools**: Jupyter Notebook, Google Colab, VS Code, Git & GitHub, Excel, Anaconda, Linux (basic commands)  
+- **Data Visualization**: Matplotlib, Tableau (or Power BI if applicable)  
+
+---
+
+### 🌐 Tools & Platforms  
+- Git & GitHub  
+- Google Colab  
+- VS Code  
+- Excel  
+- Tableau or Power BI  
+- Anaconda  
+- Linux (basic commands)  
+
+---
+
+### 🔍 Soft Skills  
+- Problem Solving  
+- Critical Thinking  
+- Adaptability  
+- Collaboration  
+- Communication Skills  
+- Creativity  
+- Eagerness to Learn  
+- Time Management  
+
+---
+
+### 🗣️ Languages  
+- English  
+- Gujarati  
+- Hindi  
+- French (Basic/Intermediate)  
+
+---
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/butani-krishna/)  
+- 📧 [Email](mailto:krishnabutani180@gmail.com)  
+
+---
+
+- ⚡ **Fun fact**: Since moving to Paris, I’ve been enjoying the blend of cultures and food! When I’m not coding, you might catch me experimenting with recipes or reading up on the latest AI breakthroughs.  
